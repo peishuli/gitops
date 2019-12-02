@@ -1,7 +1,7 @@
 # A Cloud-Native GitOps Reference Architecture
 
 ## The Architecture
-![image](https://user-images.githubusercontent.com/22537533/70003525-ff0ae280-1528-11ea-90aa-512468baf48c.png)
+![image](https://user-images.githubusercontent.com/22537533/70003646-6f196880-1529-11ea-9e43-c6d494c71ca7.png)
 
 ## The Roadmap
 ![image](https://user-images.githubusercontent.com/22537533/69999200-b0a41680-151d-11ea-959b-5c088af4c437.png)
