@@ -11,6 +11,7 @@ This project does not cover the following areas:
 - Kubernetes cluster creation: you can use any configuration management tools (e.g., Terraform, Ansilbe, etc.) or cloud provider specific CLI tool or scripts for Kubernetes cluster provisioning.
 - Git Branching Strategies: you can use whatever branching strategies that works for your organization.
 - CI tools: GitOps focus on the CD aspect of the CI/CD pipeline and is decopuled from the CI processes/tools. You can any CI tools that works for your organization. 
+
 We do, however, cover Progressive Delivery in this project.
 
 ## The Architecture
