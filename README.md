@@ -12,7 +12,7 @@ This project does not cover the following areas:
 - Git Branching Strategies: you can use whatever branching strategies that works for your organization.
 - CI tools: GitOps focus on the CD aspect of the CI/CD pipeline and is decopuled from the CI processes/tools. You can any CI tools that works for your organization. 
 
-We do, however, cover Progressive Delivery in this project.
+We do discuss Progressive Delivery in this project, however.
 
 ## The Architecture
 <img src="https://user-images.githubusercontent.com/22537533/70003646-6f196880-1529-11ea-9e43-c6d494c71ca7.png" alt="architecture" width="55%" />
