@@ -1,6 +1,8 @@
 # A Cloud-Native GitOps Reference Architecture
 [GitOps](https://www.weave.works/technologies/gitops/) has emerged as one of the best practices for delivering Kubernetes applications. However, it is very challenging to get it right when it comes to implementing GitOps. 
 
+This is a living document that is actively maintained and frequently updated. Contents and source code will be added in the coming weeks. So stay tuned! 
+
 ## Goals
 - To provide a GitOps reference architecture so that you can mix and match from the GitOps tool chain to meet unique requirements of your organization. 
 - To provide a roadmap for adopting GitOps in your organization
