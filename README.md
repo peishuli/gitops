@@ -1,6 +1,8 @@
 # A Cloud-Native GitOps Reference Architecture
 [GitOps](https://www.weave.works/technologies/gitops/) has emerged as one of the best practices for delivering Kubernetes applications. However, it is very challenging to get it right when it comes to implementing GitOps. 
 
+In this project we will help you to understand what GitOps is and explan the differences between two [Argo CD](https://github.com/argoproj/argo-cd/) and [Flux CD](https://github.com/fluxcd/flux) so that you can make an educated decision on which one to choose. We will also explain how to positioning yourself for a smooth transition to the newly announced [Argo Flux](https://github.com/argoproj/gitops-engine) once it becomes available.
+
 This is a living document that is actively maintained and frequently updated. Contents and source code will be added in the coming weeks. So stay tuned! 
 
 ## Goals
