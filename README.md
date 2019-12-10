@@ -8,7 +8,7 @@ This is a living document that is actively maintained and frequently updated. Co
 ## Goals
 - To provide a GitOps reference architecture so that you can mix and match from the GitOps tool chain to meet unique requirements of your organization. 
 - To provide a roadmap for adopting GitOps in your organization
-- To provide to end-to-end implementation of an executable GitOps workflow, using Tekton as the CI pipeline and Argo CD (and switch to Argo Flux once it becomes available) to deploy the [Hipster Shop](https://github.com/GoogleCloudPlatform/microservices-demo) sample microservcies application provided by Google Cloud Platform team.
+- To provide to end-to-end implementation of an executable GitOps workflow, using Tekton as the CI pipeline and Argo CD (and switch to Argo Flux once it becomes available) to deploy the adapted [Hipster Shop](https://github.com/GoogleCloudPlatform/microservices-demo) sample microservcies application provided by Google Cloud Platform team.
 
 ## Non-Goals
 This project does not cover the following areas:
