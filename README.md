@@ -20,14 +20,6 @@ We do discuss Progressive Delivery in this project, however.
 ## The Roadmap
 <img src="https://user-images.githubusercontent.com/22537533/69999200-b0a41680-151d-11ea-959b-5c088af4c437.png" alt="roadmap" width="50%" />
 
-### First Stop - Choose Your Git Provider
-
-### Second Stop - Choose Your CI Tool
-
-### Third Stop - Choose Your GitOps Tool
-
-### Fourth Stop - Choose Your Poressive Delivery Tool
-
 ## A Reference Implementation
 <img src="https://user-images.githubusercontent.com/22537533/69929016-26a76f80-1483-11ea-8a59-776f84c48acd.png" alt="impl" width="50%" />
 
